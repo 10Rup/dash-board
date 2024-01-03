@@ -1,0 +1,140 @@
+coursename,coursecd,trcoursecode,studenttype,resulttype,trsemcode,semname,stu_cnt,tot_pass,tot_fail,other_res
+Bachelor of Commerce,C001087,TR00002892,D,B,YR01,First Year,1285,1102,0,183
+Bachelor of Commerce,C001087,TR00002891,D,B,YR02,Second Year,1809,1643,0,166
+Bachelor of Commerce,C001087,TR00002890,D,B,YR03,Final Year,964,779,0,185
+Bachelor of Science,C001088,TR00002899,D,B,YR01,First Year,2306,1506,0,800
+Bachelor of Science,C001088,TR00002900,D,B,YR02,Second Year,3206,1936,0,1270
+Bachelor of Science,C001088,TR00002901,D,B,YR03,Final Year,2318,1827,0,491
+Bachelor of Arts,C001089,TR00002902,D,B,YR01,First Year,6337,4847,0,1490
+Bachelor of Arts,C001089,TR00002903,D,B,YR02,Second Year,7674,4534,0,3140
+Bachelor of Arts,C001089,TR00002904,D,B,YR03,Final Year,5957,4467,0,1490
+Bachelor of Computer Application,C001090,TR00002886,D,B,YR01,First Year,226,178,0,48
+Bachelor of Computer Application,C001090,TR00002885,D,B,YR02,Second Year,173,143,0,30
+Bachelor of Computer Application,C001090,TR00002884,D,B,YR03,Final Year,111,105,0,6
+Bachelor of Business Administration,C001092,TR00002617,D,B,SM02,Second Semester,15,11,0,4
+Bachelor of Business Administration,C001092,TR00002618,R,R,SM02,Second Semester,506,303,25,178
+Bachelor of Business Administration,C001092,TR00002857,R,RV,SM02,Second Semester,41,25,0,16
+Bachelor of Business Administration,C001092,TR00002880,R,RRV,SM02,Second Semester,1,1,0,0
+Bachelor of Business Administration,C001092,TR00002620,D,B,SM04,Fourth Semester,13,13,0,0
+Bachelor of Business Administration,C001092,TR00002621,R,R,SM04,Fourth Semester,478,409,9,60
+Bachelor of Business Administration,C001092,TR00002852,R,RV,SM04,Fourth Semester,3,3,0,0
+Bachelor of Business Administration,C001092,TR00002623,D,B,SM06,Six Semester,4,3,0,1
+Bachelor of Business Administration,C001092,TR00002624,R,R,SM06,Six Semester,376,255,3,118
+Bachelor of Business Administration,C001092,TR00002625,RP,B,SM06,Six Semester,1,1,0,0
+Bachelor of Business Administration,C001092,TR00002869,R,RV,SM06,Six Semester,24,15,0,9
+Bachelor of Business Administration,C001092,TR00002874,R,RRV,SM06,Six Semester,1,1,0,0
+Bachelor of Education,C001095,TR00002626,D,B,SM02,Second Semester,13,12,0,1
+Bachelor of Education,C001095,TR00002627,R,R,SM02,Second Semester,4825,4737,21,67
+Bachelor of Education,C001095,TR00002628,RP,B,SM02,Second Semester,3,3,0,0
+Bachelor of Education,C001095,TR00002629,D,B,SM04,Fourth Semester,44,42,0,2
+Bachelor of Education,C001095,TR00002630,R,R,SM04,Fourth Semester,4847,4708,10,129
+Bachelor of Education,C001095,TR00002631,RP,B,SM04,Fourth Semester,3,0,1,2
+Bachelor of Physical Education,C001096,TR00002642,R,R,SM02,Second Semester,193,190,2,1
+Bachelor of Physical Education,C001096,TR00002644,D,B,SM04,Fourth Semester,1,1,0,0
+Bachelor of Physical Education,C001096,TR00002645,R,R,SM04,Fourth Semester,193,187,0,6
+Bachelor of Science (Home Science),C001097,TR00002887,D,B,YR01,First Year,7,5,0,2
+Bachelor of Science (Home Science),C001097,TR00002888,D,B,YR02,Second Year,12,12,0,0
+Bachelor of Science (Home Science),C001097,TR00002889,D,B,YR03,Final Year,16,15,0,1
+Master of Arts in English,C001099,TR00002674,R,R,SM02,Second Semester,228,216,2,10
+Master of Arts in English,C001099,TR00002676,D,B,SM04,Fourth Semester,1,0,0,1
+Master of Arts in English,C001099,TR00002677,R,R,SM04,Fourth Semester,211,95,2,114
+Master of Arts in Sociology,C001101,TR00002715,D,B,SM02,Second Semester,1,0,0,1
+Master of Arts in Sociology,C001101,TR00002716,R,R,SM02,Second Semester,573,493,3,77
+Master of Arts in Sociology,C001101,TR00002718,D,B,SM04,Fourth Semester,2,2,0,0
+Master of Arts in Sociology,C001101,TR00002719,R,R,SM04,Fourth Semester,491,396,4,91
+Master of Arts in Sociology,C001101,TR00002720,RP,B,SM04,Fourth Semester,2,1,0,1
+Master of Arts in Economics,C001102,TR00002667,D,B,SM02,Second Semester,1,0,0,1
+Master of Arts in Economics,C001102,TR00002668,R,R,SM02,Second Semester,342,309,8,25
+Master of Arts in Economics,C001102,TR00002671,R,R,SM04,Fourth Semester,323,302,3,18
+Master of Arts in Economics,C001102,TR00002672,RP,B,SM04,Fourth Semester,1,1,0,0
+Master of Arts in Geography,C001103,TR00002680,R,R,SM02,Second Semester,295,240,2,53
+Master of Arts in Geography,C001103,TR00002683,R,R,SM04,Fourth Semester,262,253,0,9
+Master of Arts in Political Science,C001104,TR00002703,D,B,SM02,Second Semester,2,2,0,0
+Master of Arts in Political Science,C001104,TR00002704,R,R,SM02,Second Semester,762,637,11,114
+Master of Arts in Political Science,C001104,TR00002706,D,B,SM04,Fourth Semester,5,5,0,0
+Master of Arts in Political Science,C001104,TR00002707,R,R,SM04,Fourth Semester,639,600,3,36
+Master of Arts in History,C001106,TR00002691,D,B,SM02,Second Semester,1,1,0,0
+Master of Arts in History,C001106,TR00002692,R,R,SM02,Second Semester,184,167,1,16
+Master of Arts in History,C001106,TR00002695,R,R,SM04,Fourth Semester,138,117,8,13
+Master of Arts in Psychology,C001107,TR00002710,R,R,SM02,Second Semester,40,40,0,0
+Master of Arts in Psychology,C001107,TR00002713,R,R,SM04,Fourth Semester,40,38,0,2
+Master of Science in Botany,C001111,TR00002754,R,R,SM02,Second Semester,459,341,4,114
+Master of Science in Botany,C001111,TR00002757,R,R,SM04,Fourth Semester,373,364,0,9
+Master of Science in Zoology,C001112,TR00002778,R,R,SM02,Second Semester,306,289,0,17
+Master of Science in Zoology,C001112,TR00002781,R,R,SM04,Fourth Semester,261,233,1,27
+Master of Science in Mathematics,C001113,TR00002759,D,B,SM02,Second Semester,1,0,0,1
+Master of Science in Mathematics,C001113,TR00002760,R,R,SM02,Second Semester,340,208,23,109
+Master of Science in Mathematics,C001113,TR00002762,D,B,SM04,Fourth Semester,1,1,0,0
+Master of Science in Mathematics,C001113,TR00002763,R,R,SM04,Fourth Semester,393,263,1,129
+Master of Science in Physics,C001116,TR00002772,R,R,SM02,Second Semester,202,151,6,45
+Master of Science in Physics,C001116,TR00002775,R,R,SM04,Fourth Semester,165,146,1,18
+Master of Science in Bio Technology,C001120,TR00002748,R,R,SM02,Second Semester,83,80,2,1
+Master of Science in Bio Technology,C001120,TR00002751,R,R,SM04,Fourth Semester,77,72,0,5
+Master of Library & Information Science,C001123,TR00002733,R,R,SM02,Second Semester,14,9,0,5
+Master of Laws,C001124,TR00002809,D,B,SM01,First Semester,9,1,0,8
+Master of Laws,C001124,TR00002793,R,R,SM02,Second Semester,29,11,8,10
+P.G.D.C.A,C001126,TR00002789,R,R,SM02,Second Semester,2011,1399,377,235
+P.G.D.C.A,C001126,TR00002790,RP,B,SM02,Second Semester,3,3,0,0
+PG diploma in Yoga Education and philosophy,C001137,TR00002791,R,R,SM02,Second Semester,125,117,0,8
+Bachelor of Laws,C001139,TR00002810,D,B,SM01,First Semester,43,29,8,6
+Bachelor of Laws,C001139,TR00002632,D,B,SM02,Second Semester,3,2,1,0
+Bachelor of Laws,C001139,TR00002633,R,R,SM02,Second Semester,381,278,41,62
+Bachelor of Laws,C001139,TR00002634,RP,B,SM02,Second Semester,4,2,1,1
+Bachelor of Laws,C001139,TR00002840,R,RV,SM02,Second Semester,37,8,12,17
+Bachelor of Laws,C001139,TR00002879,R,RRV,SM02,Second Semester,1,0,1,0
+Bachelor of Laws,C001139,TR00002811,D,B,SM03,Third Semester,56,40,7,9
+Bachelor of Laws,C001139,TR00002820,D,B,SM03,Third Semester,1,1,0,0
+Bachelor of Laws,C001139,TR00002635,D,B,SM04,Fourth Semester,3,3,0,0
+Bachelor of Laws,C001139,TR00002636,R,R,SM04,Fourth Semester,332,243,14,75
+Bachelor of Laws,C001139,TR00002843,R,RV,SM04,Fourth Semester,65,48,5,12
+Bachelor of Laws,C001139,TR00002871,R,RRV,SM04,Fourth Semester,5,4,0,1
+Bachelor of Laws,C001139,TR00002905,R,R,SM04,Fourth Semester,1,1,0,0
+Bachelor of Laws,C001139,TR00002812,D,B,SM05,Fifth Semester,23,21,1,1
+Bachelor of Laws,C001139,TR00002638,D,B,SM06,Six Semester,1,1,0,0
+Bachelor of Laws,C001139,TR00002639,R,R,SM06,Six Semester,334,277,8,49
+Bachelor of Laws,C001139,TR00002839,R,RV,SM06,Six Semester,34,30,2,2
+Bachelor of Laws,C001139,TR00002870,R,RRV,SM06,Six Semester,4,3,0,1
+Master of Social Work,C001141,TR00002783,D,B,SM02,Second Semester,1,1,0,0
+Master of Social Work,C001141,TR00002784,R,R,SM02,Second Semester,53,52,0,1
+Master of Social Work,C001141,TR00002787,R,R,SM04,Fourth Semester,46,43,0,3
+Master of Arts in Hindi,C001143,TR00002685,D,B,SM02,Second Semester,1,1,0,0
+Master of Arts in Hindi,C001143,TR00002686,R,R,SM02,Second Semester,734,624,13,97
+Master of Arts in Hindi,C001143,TR00002689,R,R,SM04,Fourth Semester,561,504,6,51
+Master of Arts in Hindi,C001143,TR00002690,RP,B,SM04,Fourth Semester,1,1,0,0
+Master of Commerce,C001144,TR00002721,D,B,SM02,Second Semester,1,1,0,0
+Master of Commerce,C001144,TR00002722,R,R,SM02,Second Semester,814,573,8,233
+Master of Commerce,C001144,TR00002724,D,B,SM04,Fourth Semester,9,6,0,3
+Master of Commerce,C001144,TR00002725,R,R,SM04,Fourth Semester,797,727,6,64
+Master of Science Chemistry,C001147,TR00002735,D,B,SM02,Second Semester,1,1,0,0
+Master of Science Chemistry,C001147,TR00002736,R,R,SM02,Second Semester,549,420,5,124
+Master of Science Chemistry,C001147,TR00002739,R,R,SM04,Fourth Semester,457,403,1,53
+Diploma in Computer Application,C001148,TR00002647,R,R,SM02,Second Semester,314,102,167,45
+Diploma in Computer Application,C001148,TR00002648,RP,B,SM02,Second Semester,1,1,0,0
+Master of Education,C001150,TR00002727,D,B,SM02,Second Semester,9,8,0,1
+Master of Education,C001150,TR00002728,R,R,SM02,Second Semester,266,247,7,12
+Master of Education,C001150,TR00002729,RP,B,SM02,Second Semester,5,4,0,1
+Master of Education,C001150,TR00002731,R,R,SM04,Fourth Semester,357,335,12,10
+Master of Education,C001150,TR00002732,RP,B,SM04,Fourth Semester,3,2,1,0
+Master of Arts in Home Science,C001152,TR00002697,D,B,SM02,Second Semester,1,1,0,0
+Master of Arts in Home Science,C001152,TR00002698,R,R,SM02,Second Semester,11,10,0,1
+Master of Arts in Home Science,C001152,TR00002701,R,R,SM04,Fourth Semester,7,2,1,4
+Master of Science Computer Science,C001153,TR00002741,D,B,SM02,Second Semester,1,1,0,0
+Master of Science Computer Science,C001153,TR00002742,R,R,SM02,Second Semester,63,27,9,27
+Master of Science Computer Science,C001153,TR00002745,R,R,SM04,Fourth Semester,49,36,0,13
+Master of Science in Microbiology,C001154,TR00002766,R,R,SM02,Second Semester,66,60,1,5
+Master of Science in Microbiology,C001154,TR00002767,RP,B,SM02,Second Semester,1,0,0,1
+Master of Science in Microbiology,C001154,TR00002769,R,R,SM04,Fourth Semester,70,67,1,2
+M.Sc. Home Science - Textile and Clothing,C001190,TR00002662,R,R,SM02,Second Semester,2,0,0,2
+M.Sc. Home Science - Textile and Clothing,C001190,TR00002665,R,R,SM04,Fourth Semester,8,8,0,0
+M.Sc. Home Science - Human Development,C001192,TR00002656,R,R,SM02,Second Semester,4,4,0,0
+M.Sc. Home Science - Human Development,C001192,TR00002659,R,R,SM04,Fourth Semester,17,16,0,1
+M.Sc. Home Science - Food Science and Nutrition,C001193,TR00002650,R,R,SM02,Second Semester,17,17,0,0
+M.Sc. Home Science - Food Science and Nutrition,C001193,TR00002653,R,R,SM04,Fourth Semester,18,17,0,1
+B.A.-B.Ed.,C001198,TR00002895,D,B,PR01,Part - I,3,2,0,1
+B.A.-B.Ed.,C001198,TR00002883,D,B,PR02,Part - II,2,2,0,0
+B.A.-B.Ed.,C001198,TR00002894,D,B,PR03,Part - III,2,2,0,0
+B.A.-B.Ed.,C001198,TR00002893,D,B,PR04,Part - IV,2,2,0,0
+B.Sc.-B.Ed.,C001199,TR00002898,D,B,PR01,Part - I,2,1,0,1
+B.Sc.-B.Ed.,C001199,TR00002897,D,B,PR02,Part - II,1,0,0,1
+B.Sc.-B.Ed.,C001199,TR00002896,D,B,PR04,Part - IV,2,2,0,0
+MASTER OF PHILOSOPHY IN CLINICAL PSYCHOLOGY,C001227,TR00002882,RP,B,YR01,First Year,4,3,1,0
